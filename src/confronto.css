@@ -1,0 +1,38 @@
+h2{
+    font-family: "Telargo", sans-serif; text-align: center
+}
+p{
+    text-align: left; font-family: "Telargo", sans-serif;
+}
+
+
+.w3-large{
+    max-width:1600px;
+    margin-left: 128px;
+    margin-right: 128px;
+}
+
+.w3-row{
+    margin-bottom:128px;
+
+}
+
+#giocatore{
+    width:100%;
+}
+#porta{
+    width: 100%;
+}
+
+
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+
+
+

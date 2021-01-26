@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Scheda</title>
+    <link rel="stylesheet" href="scheda.css"/>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="lib/d3.js"></script>
+    <script type="text/javascript" src="lib/linq.js"></script>
+</head>
+<body class="w3-gray">
+
+    <!-- Page Container -->
+    <div class="w3-large w3-margin-top">
+        <!-- The Grid -->
+        <div class="w3-row">
+
+            <span class="w3-button w3-hide-large w3-xxlarge" onclick="w3_open()"><i class="fa fa-bars"></i></span>
+            <div class="w3-container">
+                <h1><b>Scheda tecnica</b></h1>
+                <div class="w3-section w3-bottombar w3-padding-16">
+                    <button class="w3-button w3-white w3-text-indigo">Squadre</button>
+                    <button class="w3-button w3-white w3-text-indigo ">Giocatori</button>
+                    <button class="w3-button w3-white w3-text-indigo">Combina</button>
+                </div>
+            </div>
+            <!-- Left Column -->
+            <div class="w3-third" id="sinistra">
+
+                <div class="w3-white w3-text-indigo ">
+                    <div class="w3-display-container">
+                        <!--<img id= "giocatore" src="../img/Ronaldo.jpg" >-->
+                    </div>
+                <div class="w3-container" id="dati">
+                    <!--<p>Nome: Cristiano Ronaldo</p>
+                    <p></i>Ruolo: Attacante Ala sinistra</p>
+                    <p>Squadra: Juventus FC</p>
+                    <p></i>Piedi: entrambi</p>-->
+                </div>
+                </div><br>
+            <!-- End Left Column -->
+            </div>
+
+
+            <!-- Right Column -->
+            <div class="w3-twothird">
+
+                <div class="w3-container w3-card w3-white w3-margin-bottom">
+                    <h2 class="w3-text-indigo w3-padding-16"></i>Migliori tiri</h2>
+                    <div class="w3-container">
+                    <img id="porta" src="../img/porta.jpg" >
+                    
+                    </div>
+                </div>
+
+            <!-- End Right Column -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>
