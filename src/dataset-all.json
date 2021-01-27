@@ -17,54 +17,54 @@
   "small_img": "player-small-Spartans.png",
 "statistiche":
 [
-[0.06,0.05,0.04],
-[0.11,0.08,0.09],
-[0.24,0.11,0.21]
+[0.08,0.03,0.04],
+[0.12,0.09,0.05],
+[0.22,0.13,0.24]
 ]},
 {"id":3,"squadra":"Spartans","cognome":"Sanchez","nome":"Tobias","nickname":"Tango","anno_nascita":"1995","nazionalita":"Argentina","ruolo":"A","numero":"11","piede":"sx","totali":"100","segnati":"84","sbagliati":"16","parati":"7","fuori":"6","traverse":"0","pali":"3","piede_sx":"100","piede_dx":"0",
   "img": "",
   "small_img": "player-small-Spartans.png",
 "statistiche":
 [
-[0.06,0.05,0.04],
-[0.11,0.08,0.09],
-[0.24,0.11,0.21]
+[0.03,0.06,0.04],
+[0.11,0.10,0.05],
+[0.21,0.11,0.29]
 ]},
 {"id":4,"squadra":"Galacticos","cognome":"Garcia","nome":"Ugo","nickname":"Loco","anno_nascita":"1999","nazionalita":"Spagna","ruolo":"A","numero":"9","piede":"dx","totali":"100","segnati":"89","sbagliati":"11","parati":"3","fuori":"5","traverse":"1","pali":"2","piede_sx":"0","piede_dx":"100",
   "img": "",
   "small_img": "player-small-Spartans.png",
 "statistiche":
 [
-[0.06,0.05,0.04],
-[0.11,0.08,0.09],
-[0.24,0.11,0.21]
+[0.09,0.05,0.04],
+[0.13,0.08,0.03],
+[0.23,0.13,0.21]
 ]},
 {"id":5,"squadra":"Galacticos","cognome":"Lima","nome":"Luis","nickname":"SpaceAce","anno_nascita":"2000","nazionalita":"Brasile","ruolo":"C","numero":"7","piede":"dx","totali":"100","segnati":"82","sbagliati":"18","parati":"6","fuori":"9","traverse":"0","pali":"5","piede_sx":"10","piede_dx":"90",
   "img": "",
   "small_img": "player-small-galacticos.png",
 "statistiche":
 [
-[0.06,0.05,0.04],
-[0.11,0.08,0.09],
-[0.24,0.11,0.21]
+[0.02,0.05,0.04],
+[0.25,0.22,0.09],
+[0.13,0.11,0.09]
 ]},
 {"id":6,"squadra":"Galacticos","cognome":"Hughes","nome":"Jim","nickname":"Bomber","anno_nascita":"1996","nazionalita":"Regno Unito","ruolo":"A","numero":"10","piede":"dx","totali":"100","segnati":"85","sbagliati":"15","parati":"5","fuori":"5","traverse":"1","pali":"4","piede_sx":"0","piede_dx":"100",
   "img": "",
   "small_img": "player-small-Spartans.png",
 "statistiche":
 [
-[0.06,0.05,0.04],
-[0.11,0.08,0.09],
-[0.24,0.11,0.21]
+[0.04,0.11,0.04],
+[0.17,0.13,0.09],
+[0.24,0.11,0.07]
 ]},
 {"id":7,"squadra":"Carioca","cognome":"Santos","nome":"Jorge","nickname":"Maravilla","anno_nascita":"1999","nazionalita":"Brasile","ruolo":"A","numero":"10","piede":"dx","totali":"100","segnati":"90","sbagliati":"10","parati":"4","fuori":"4","traverse":"2","pali":"0","piede_sx":"12","piede_dx":"88",
   "img": "",
   "small_img": "player-small-Spartans.png",
 "statistiche":
 [
-[0.06,0.05,0.04],
+[0.23,0.25,0.19],
 [0.11,0.08,0.09],
-[0.24,0.11,0.21]
+[0.02,0.01,0.02]
 ]},
 {"id":8,"squadra":"Carioca","cognome":"Zito","nome":"Arthur","nickname":"Coimbra","anno_nascita":"1998","nazionalita":"Brasile","ruolo":"C","numero":"8","piede":"sx","totali":"100","segnati":"87","sbagliati":"13","parati":"6","fuori":"4","traverse":"2","pali":"1","piede_sx":"19","piede_dx":"81",
   "img": "",
@@ -72,17 +72,17 @@
 "statistiche":
 [
 [0.06,0.05,0.04],
-[0.11,0.08,0.09],
-[0.24,0.11,0.21]
+[0.24,0.11,0.31],
+[0.09,0.02,0.08]
 ]},
 {"id":9,"squadra":"Carioca","cognome":"Manoel","nome":"Francisco","nickname":"TNT","anno_nascita":"1997","nazionalita":"Brasile","ruolo":"A","numero":"9","piede":"dx","totali":"100","segnati":"90","sbagliati":"10","parati":"3","fuori":"3","traverse":"1","pali":"3","piede_sx":"2","piede_dx":"98",
   "img": "",
   "small_img": "player-small-Spartans.png",
 "statistiche":
 [
-[0.06,0.05,0.04],
 [0.11,0.08,0.09],
-[0.24,0.11,0.21]
+[0.04,0.08,0.10],
+[0.24,0.11,0.15]
 ]}
 ]
 },
@@ -93,9 +93,9 @@
   "small_img": "goalkeeper-small-base.png",
 "statistiche":
 [
-[0.06,0.05,0.04],
-[0.11,0.08,0.09],
-[0.24,0.11,0.21]
+[0.01,0.05,0.04],
+[0.13,0.08,0.09],
+[0.24,0.12,0.24]
 ]
 },
 {"id":11,"squadra":"Carioca","cognome":"Oliveira","nome":"Ademar","nickname":"The policeman","anno_nascita":"1998","nazionalita":"Brasiliano","ruolo":"A","numero":"1","piede":"dx","totali":"100","subiti":"58","sbagliati":"42","parati":"20","fuori":"5","traverse":"3","pali":"8","piede_sx":"5","piede_dx":"95",
@@ -113,12 +113,52 @@
   "small_img": "goalkeeper-small-base.png",
   "statistiche":
   [
-    [0.06,0.05,0.04],
-    [0.11,0.08,0.09],
-    [0.24,0.11,0.21]
+    [0.04,0.05,0.06],
+    [0.11,0.11,0.09],
+    [0.24,0.21,0.08]
   ]
-}
-]},
+},
+    {"id":12,"squadra":"Mirabilandia","cognome":"Rossi","nome":"Alessandro","nickname":"infallibile","anno_nascita":"2001","nazionalita":"Italiano","ruolo":"A","numero":"1","piede":"dx","totali":"100","subiti":"61","sbagliati":"25","parati":"23","fuori":"15","traverse":"5","pali":"12","piede_sx":"5","piede_dx":"95",
+      "img": "",
+      "small_img": "goalkeeper-small-base.png",
+      "statistiche":
+      [
+        [0.05,0.04,0.06],
+        [0.10,0.12,0.09],
+        [0.24,0.21,0.08]
+      ]
+    },
+    {"id":12,"squadra":"Colosso","cognome":"Giannini","nome":"Mario","nickname":"the mountain","anno_nascita":"1995","nazionalita":"Italiano","ruolo":"A","numero":"1","piede":"dx","totali":"100","subiti":"35","sbagliati":"65","parati":"30","fuori":"10","traverse":"10","pali":"23","piede_sx":"5","piede_dx":"95",
+      "img": "",
+      "small_img": "goalkeeper-small-base.png",
+      "statistiche":
+      [
+        [0.10,0.11,0.05],
+        [0.05,0.06,0.09],
+        [0.24,0.21,0.09]
+      ]
+    },
+    {"id":12,"squadra":"Lion","cognome":"Bernard","nome":"Arnaud","nickname":"The Evil","anno_nascita":"1992","nazionalita":"Francese","ruolo":"A","numero":"1","piede":"dx","totali":"100","subiti":"82","sbagliati":"45","parati":"10","fuori":"18","traverse":"6","pali":"5","piede_sx":"5","piede_dx":"95",
+      "img": "",
+      "small_img": "goalkeeper-small-base.png",
+      "statistiche":
+      [
+        [0.24,0.04,0.02],
+        [0.10,0.12,0.09],
+        [0.24,0.05,0.10]
+      ]
+    },
+    {"id":12,"squadra":"Barca","cognome":"Fernandez","nome":"Julio","nickname":"The Agile","anno_nascita":"1997","nazionalita":"Spagnolo","ruolo":"A","numero":"1","piede":"dx","totali":"100","subiti":"11","sbagliati":"15","parati":"53","fuori":"15","traverse":"12","pali":"5","piede_sx":"5","piede_dx":"95",
+      "img": "",
+      "small_img": "goalkeeper-small-base.png",
+      "statistiche":
+      [
+        [0.05,0.24,0.12],
+        [0.10,0.06,0.09],
+        [0.21,0.04,0.08]
+      ]
+    }
+  ]},
 { "squadre" : [
 
 { "nome" : "Spartans",
@@ -137,14 +177,41 @@
   "small_img": "player-small-Spartans.png"
 },
 	
-{ "nome" : "Carioca",
- "nazionalita" : "Brasile", 
- "citta" : "Rio",
+{ "nome" : "Mirabilandia",
+ "nazionalita" : "Italia",
+ "citta" : "Milano",
  "appartenenza" : "A", 
  "img": "",
   "small_img": ""
-}	
-	
+},
+  { "nome" : "Colosso",
+    "nazionalita" : "Italia",
+    "citta" : "Roma",
+    "appartenenza" : "A",
+    "img": "",
+    "small_img": ""
+  },
+  { "nome" : "Lion",
+    "nazionalita" : "Francia",
+    "citta" : "Lione",
+    "appartenenza" : "A",
+    "img": "",
+    "small_img": ""
+  },
+  { "nome" : "Barca",
+    "nazionalita" : "Spagna",
+    "citta" : "Barcellona",
+    "appartenenza" : "A",
+    "img": "",
+    "small_img": ""
+  },
+  { "nome" : "Carioca",
+    "nazionalita" : "Brasile",
+    "citta" : "Rio",
+    "appartenenza" : "A",
+    "img": "",
+    "small_img": ""
+  }
 ]
 
   }
